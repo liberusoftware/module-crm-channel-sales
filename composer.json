@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-channel-sales","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\ChannelSales\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\ChannelSales\\ChannelSalesServiceProvider"]},"liberu":{"name":"crm-channel-sales"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
